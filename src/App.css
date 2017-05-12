@@ -1,0 +1,10 @@
+.usa-grid > h2:first-child,
+.usa-width-one-half > h2:first-child {
+  margin-top: 36px
+}
+label {
+  margin-top: 0;
+}
+h2 {
+  color: #205493;
+}
